@@ -2,10 +2,14 @@
 
 > **End-to-end machine learning system for real-time credit card fraud detection**  
 > Trained on 1.29M transactions · 99.51% AUC-ROC · 98.43% Accuracy · 93.60% Recall
+
+
 🚀 Live Demo:
 https://ai-fraud-detection-bzpdrbwx2d7f6j54bwzbbd.streamlit.app/
+
 > 📂 GitHub Repository:
 https://github.com/alekhya-git-star/Ai-Fraud-Detection
+
 > 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-orange?style=flat&logo=scikit-learn)
