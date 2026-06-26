@@ -4,11 +4,11 @@
 > Trained on 1.29M transactions · 99.51% AUC-ROC · 98.43% Accuracy · 93.60% Recall
 
 
-🚀 Live Demo:
-https://ai-fraud-detection-bzpdrbwx2d7f6j54bwzbbd.streamlit.app/
+## 🚀 Live Demo
+🔗 [Try the App](https://ai-fraud-detection-bzpdrbwx2d7f6j54bwzbbd.streamlit.app/)
 
-> 📂 GitHub Repository:
-https://github.com/alekhya-git-star/Ai-Fraud-Detection
+## 📂 GitHub Repository
+💻 [View Source Code](https://github.com/alekhya-git-star/Ai-Fraud-Detection)
 
 > 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python)
